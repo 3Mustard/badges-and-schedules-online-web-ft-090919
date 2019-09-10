@@ -10,3 +10,8 @@ def batch_badge_creator(array)
   end
   badges
 end
+
+def assign_rooms(speakers)
+  room_assignments = []
+  speakers.eah
+end
